@@ -87,7 +87,6 @@ string decrypt(string code,string hint){
 	}
 	return name;
 }
-//ALL THE TEXT SHOULD BE UPPERCASE
 //LENGTH OF HINT SHOULD BE LESS THAN OR EQUAL TO LENGTH OF THE CODE
 int main(){
 	int n;
