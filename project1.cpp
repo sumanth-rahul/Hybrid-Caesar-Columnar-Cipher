@@ -87,7 +87,6 @@ string decrypt(string code,string hint){
 	}
 	return name;
 }
-//LENGTH OF HINT SHOULD BE LESS THAN OR EQUAL TO LENGTH OF THE CODE
 //INTEGERS SHOULD NOT BE INCLUDED IN CODE OR IN HINT
 int main(){
 	int n;
